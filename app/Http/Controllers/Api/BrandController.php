@@ -26,7 +26,7 @@ class BrandController extends Controller
      */
     public function create()
     {
-        //
+        // use for create new brand
     }
 
     /**
